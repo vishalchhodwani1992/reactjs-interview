@@ -1,0 +1,20 @@
+[
+    {
+        "employeeId": 1,
+        "firstName": "Mark",
+        "lastName": "Julia",
+        "dob": "01/01/1995",
+        "designation": "Software Engineer",
+        "profilePhoto": "https://www.akg-images.de/Docs/AKG/Media/TR3_WATERMARKED/0/2/c/c/AKG896574.jpg",
+        "experience": "5 Years"
+    },
+    {
+        "employeeId": 2,
+        "firstName": "Robert",
+        "lastName": "Nicolas",
+        "dob": "06/07/1968",
+        "designation": "Vice President",
+        "profilePhoto": "https://en.24smi.org/public/media/235x307/celebrity/2018/06/13/v1whzbzs94tw-robert-pattinson.jpg",
+        "experience": "25 Years"
+    }
+]

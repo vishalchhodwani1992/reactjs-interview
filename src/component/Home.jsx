@@ -1,15 +1,9 @@
-import React, { Component } from 'react'
+import React from 'react'
 
-class Home extends Component {
+export default function Home(props) {
 
-    constructor(props) {
-        super(props);
-    }
-  
-    render() {
-        return ( <h2 className="text-center">Home</h2>);
-    }
-
+        return  <div>            
+            <h2 className="text-center">Home</h2>
+            <button onClick={() => props.history.push("Employees")} className="text-center">Employee List</button>
+        </div>
 }
-
-export default Home;
